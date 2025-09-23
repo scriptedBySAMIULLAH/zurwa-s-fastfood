@@ -1,0 +1,572 @@
+{
+  "Pizza": [
+    {
+      "id": 1,
+      "name": "BBQ Pizza",
+      "sizes": [
+        { "size": "sm", "price": 700 },
+        { "size": "md", "price": 1350 },
+        { "size": "lg", "price": 1850 },
+        { "size": "xl", "price": 2800 }
+      ],
+      "image": "/assets/pizzas/bbq_pizza.jpeg",
+      "description": "Smoky BBQ chicken topped with rich cheese."
+    },
+    {
+      "id": 2,
+      "name": "Zurwa's Special",
+      "sizes": [
+        { "size": "sm", "price": 900 },
+        { "size": "md", "price": 1650 },
+        { "size": "lg", "price": 2050 },
+        { "size": "xl", "price": 3200 }
+      ],
+      "image": "/assets/pizzas/zurwas_special.jpeg",
+      "description": "A signature mix of toppings for a special taste."
+    },
+    {
+      "id": 3,
+      "name": "Cheese Lover",
+      "sizes": [
+        { "size": "sm", "price": 700 },
+        { "size": "md", "price": 1350 },
+        { "size": "lg", "price": 1850 },
+        { "size": "xl", "price": 2800 }
+      ],
+      "image": "/assets/pizzas/cheese_lover.jpeg",
+      "description": "Loaded with layers of gooey melted cheese."
+    },
+    {
+      "id": 4,
+      "name": "Malai Boti Pizza",
+      "sizes": [
+        { "size": "sm", "price": 700 },
+        { "size": "md", "price": 1350 },
+        { "size": "lg", "price": 1850 },
+        { "size": "xl", "price": 2800 }
+      ],
+      "image": "/assets/pizzas/malai_boti_pizza.jpeg",
+      "description": "Soft malai boti chunks baked on cheesy crust."
+    },
+    {
+      "id": 5,
+      "name": "Fajita Pizza",
+      "sizes": [
+        { "size": "sm", "price": 700 },
+        { "size": "md", "price": 1350 },
+        { "size": "lg", "price": 1850 },
+        { "size": "xl", "price": 2800 }
+      ],
+      "image": "/assets/pizzas/fajita_pizza.jpeg",
+      "description": "Zesty fajita chicken with peppers and spices."
+    },
+    {
+      "id": 6,
+      "name": "Stuff Crust (Seekh Kabab)",
+      "sizes": [
+        { "size": "sm", "price": 900 },
+        { "size": "md", "price": 1650 },
+        { "size": "lg", "price": 2050 },
+        { "size": "xl", "price": 3200 }
+      ],
+      "image": "/assets/pizzas/stuff_crust.jpeg",
+      "description": "Cheesy crust stuffed with spicy seekh kabab."
+    }
+  ],
+ "Soup": [
+  {
+    "id": 1,
+    "name": "Chicken Corn Soup",
+    "price": 1000.00,
+    "image": "/assets/soups/chicken_corn_soup.jpeg",
+    "description": "Warm soup with chicken chunks and sweet corn."
+  },
+  {
+    "id": 2,
+    "name": "Hot & Sour Soup",
+    "price": 1100.00,
+    "image": "/assets/soups/hot_sour_soup.jpeg",
+    "description": "Tangy hot and sour broth with veggies and meat."
+  },
+  {
+    "id": 3,
+    "name": "Our Special Soup",
+    "price": 1100.00,
+    "image": "/assets/soups/hot_sour_soup.jpeg",
+    "description": "House-special soup cooked with rich spices."
+  }
+],
+ "Ice_Cream": [
+  {
+    "id": 1,
+    "name": "Chocolate Ice Cream",
+    "price": 320.00,
+    "image": "/assets/ice_cream/chocolate_ice_cream.jpeg",
+    "description": "Smooth creamy ice cream with rich chocolate taste."
+  },
+  {
+    "id": 2,
+    "name": "Vanilla Ice Cream",
+    "price": 320.00,
+    "image": "/assets/ice_cream/vanilla_ice_cream.jpeg",
+    "description": "Classic vanilla ice cream with a creamy texture."
+  },
+  {
+    "id": 3,
+    "name": "Strawberry Ice Cream",
+    "price": 320.00,
+    "image": "/assets/ice_cream/strawberry_ice_cream.jpeg",
+    "description": "Sweet and fruity strawberry flavored ice cream."
+  },
+  {
+    "id": 4,
+    "name": "Kulfa Ice Cream",
+    "price": 320.00,
+    "image": "/assets/ice_cream/kulfa_ice_cream.jpeg",
+    "description": "Traditional kulfa ice cream with nutty flavor."
+  },
+  {
+    "id": 5,
+    "name": "Peanut Ice Cream",
+    "price": 320.00,
+    "image": "/assets/ice_cream/peanut_ice_cream.jpeg",
+    "description": "Nutty peanut flavor blended into creamy ice cream."
+  },
+  {
+    "id": 6,
+    "name": "Mango Ice Cream",
+    "price": 320.00,
+    "image": "/assets/ice_cream/mango_ice_cream.jpeg",
+    "description": "Refreshing mango ice cream with a fruity punch."
+  },
+  {
+    "id": 7,
+    "name": "Mutka Tea",
+    "price": 320.00,
+    "image": "/assets/ice_cream/mutka_tea.jpeg",
+    "description": "Traditional mutka-brewed sweet milk tea."
+  }
+],
+"Chinese": [
+  {
+    "id": 1,
+    "name": "Chicken Chowmein",
+    "price": 1000.00,
+    "image": "/assets/chinese/chicken_chowmein.jpeg",
+    "description": "Stir-fried noodles with chicken and veggies."
+  },
+  {
+    "id": 2,
+    "name": "Beef chili dry with Rice",
+    "price": 1600.00,
+    "image": "/assets/chinese/beef_chili_dry_rice.jpeg",
+    "description": "Spicy beef chili dry served hot with rice."
+  },
+  {
+    "id": 3,
+    "name": "Chicken Fried Rice",
+    "price": 250.00,
+    "image": "/assets/chinese/chicken_fried_rice.jpeg",
+    "description": "Fried rice mixed with flavorful chicken pieces."
+  },
+  {
+    "id": 4,
+    "name": "Chicken Masala Rice",
+    "price": 1000.00,
+    "image": "/assets/chinese/chicken_masala_rice.jpeg",
+    "description": "Rice spiced with chicken and aromatic masala."
+  },
+  {
+    "id": 5,
+    "name": "Chicken Manchurian Rice",
+    "price": 1500.00,
+    "image": "/assets/chinese/chicken_manchurian.jpeg",
+    "description": "Tangy chicken manchurian paired with rice."
+  },
+  {
+    "id": 6,
+    "name": "Chicken Shashlik with Rice",
+    "price": 1500.00,
+    "image": "/assets/chinese/chicken_shashlik_with_rice.jpeg",
+    "description": "Grilled chicken shashlik served with rice."
+  },
+  {
+    "id": 7,
+    "name": "Chicken chili Dry with Rice",
+    "price": 1500.00,
+    "image": "/assets/chinese/chicken_chili_dry_with_rice.jpeg",
+    "description": "Spicy chicken chili dry paired with rice."
+  },
+  {
+    "id": 8,
+    "name": "Special Chowmein",
+    "price": 1200.00,
+    "image": "/assets/chinese/special_chowmein.jpeg",
+    "description": "Special chowmein with mixed meat and veggies."
+  },
+  {
+    "id": 9,
+    "name": "Egg Fried Rice",
+    "price": 800.00,
+    "image": "/assets/chinese/egg_fried_rice.jpeg",
+    "description": "Golden fried rice cooked with scrambled eggs."
+  },
+  {
+    "id": 10,
+    "name": "Black Pepper Chicken with Rice",
+    "price": 1500.00,
+    "image": "/assets/chinese/black_pepper_chicken_with_rice.jpeg",
+    "description": "Rice served with spicy black pepper chicken."
+  },
+  {
+    "id": 11,
+    "name": "Chicken Fried Rice",
+    "price": 1000.00,
+    "image": "/assets/chinese/chicken_fried_rice.jpeg",
+    "description": "Classic fried rice with juicy chicken chunks."
+  }
+],
+"Bar_Drinks": [
+  {
+    "id": 1,
+    "name": "Cold Coffee",
+    "price": 350.00,
+    "image": "/assets/bar_drinks/cold_coffee.jpeg",
+    "description": "Chilled coffee blended with milk and ice."
+  },
+  {
+    "id": 2,
+    "name": "Ice Tea Lemon",
+    "price": 250.00,
+    "image": "/assets/bar_drinks/ice_tea_lemon.jpeg",
+    "description": "Cool lemon iced tea with a citrus twist."
+  },
+  {
+    "id": 3,
+    "name": "Mineral Water",
+    "price": 150.00,
+    "image": "/assets/bar_drinks/mineral_water.jpeg",
+    "description": "Refreshing bottled mineral drinking water."
+  },
+  {
+    "id": 4,
+    "name": "Ice Tea Peach",
+    "price": 250.00,
+    "image": "/assets/bar_drinks/ice_tea_peach.jpeg",
+    "description": "Sweet peach flavored iced tea drink."
+  },
+  {
+    "id": 5,
+    "name": "Banana Shake",
+    "price": 350.00,
+    "image": "/assets/bar_drinks/banana_shake.jpeg",
+    "description": "Creamy banana blended into a smooth shake."
+  },
+  {
+    "id": 6,
+    "name": "Strawberry Margarita",
+    "price": 300.00,
+    "image": "/assets/bar_drinks/strawberry_margarita.jpeg",
+    "description": "Chilled margarita with tangy strawberry flavor."
+  },
+  {
+    "id": 7,
+    "name": "Mango Shake",
+    "price": 350.00,
+    "image": "/assets/bar_drinks/mango_shake.jpeg",
+    "description": "Sweet and smooth shake made with fresh mango."
+  },
+  {
+    "id": 8,
+    "name": "Apple Shake",
+    "price": 350.00,
+    "image": "/assets/bar_drinks/apple_shake.jpeg",
+    "description": "Delicious apple-flavored creamy milkshake."
+  },
+  {
+    "id": 9,
+    "name": "Strawberry Shake",
+    "price": 350.00,
+    "image": "/assets/bar_drinks/strawberry_shake.jpeg",
+    "description": "Refreshing shake full of strawberry flavor."
+  },
+  {
+    "id": 10,
+    "name": "Mix Shake",
+    "price": 350.00,
+    "image": "/assets/bar_drinks/mix_shake.jpeg",
+    "description": "A creamy blend of mixed shake flavors."
+  },
+  {
+    "id": 11,
+    "name": "Dates Shake",
+    "price": 400.00,
+    "image": "/assets/bar_drinks/dates_shake.jpeg",
+    "description": "Energizing milkshake sweetened with dates."
+  },
+  {
+    "id": 12,
+    "name": "Special Shake",
+    "price": 400.00,
+    "image": "/assets/bar_drinks/special_shake.jpeg",
+    "description": "House-special creamy shake with rich taste."
+  },
+  {
+    "id": 13,
+    "name": "Mint Margarita",
+    "price": 300.00,
+    "image": "/assets/bar_drinks/mint_margarita.jpeg",
+    "description": "Refreshing minty margarita served chilled."
+  },
+  {
+    "id": 14,
+    "name": "Blueberry Margarita",
+    "price": 300.00,
+    "image": "/assets/bar_drinks/blueberry_margarita.jpeg",
+    "description": "Fruity blueberry margarita with a tangy taste."
+  },
+  {
+    "id": 15,
+    "name": "Apple Margarita",
+    "price": 300.00,
+    "image": "/assets/bar_drinks/apple_margarita.jpeg",
+    "description": "Refreshing margarita infused with apple flavor."
+  },
+  {
+    "id": 16,
+    "name": "Soft Drinks",
+    "price": 250.00,
+    "image": "/assets/bar_drinks/soft_drinks.jpeg",
+    "description": "Chilled fizzy drinks to refresh your day."
+  }
+],
+"Icecream_Shakes": [
+  {
+    "id": 1,
+    "name": "Ice Cream Shake",
+    "price": 400.00,
+    "image": "/assets/ice_cream_shakes/ice_cream_shake.jpeg",
+    "description": "Thick creamy shake made with rich ice cream."
+  },
+  {
+    "id": 2,
+    "name": "Mango Smoothie",
+    "price": 450.00,
+    "image": "/assets/ice_cream_shakes/mango_smoothie.jpeg",
+    "description": "Smoothie made with fresh ripe mangoes."
+  },
+  {
+    "id": 3,
+    "name": "Strawberry Smoothie",
+    "price": 450.00,
+    "image": "/assets/ice_cream_shakes/strawberry_smoothie.jpeg",
+    "description": "Sweet strawberry smoothie blended fresh."
+  },
+  {
+    "id": 4,
+    "name": "Banana Smoothie",
+    "price": 450.00,
+    "image": "/assets/ice_cream_shakes/banana_smoothie.jpeg",
+    "description": "Creamy banana smoothie packed with energy."
+  }
+],
+"Appetizers": [
+  {
+    "id": 1,
+    "name": "Crispy Wing's 6 pc",
+    "price": 600.00,
+    "image": "/assets/appetizers/chicken_wings.jpeg",
+    "description": "Crispy golden wings served hot with dip."
+  },
+  {
+    "id": 2,
+    "name": "Chicken Nuggets 6 pc",
+    "price": 600.00,
+    "image": "/assets/appetizers/chicken_nuggets.jpeg",
+    "description": "Bite-sized crispy nuggets served with sauce."
+  },
+  {
+    "id": 3,
+    "name": "Chicken Strips 6 pc",
+    "price": 600.00,
+    "image": "/assets/appetizers/chicken_strips.jpeg",
+    "description": "Crunchy chicken strips served with ketchup."
+  },
+  {
+    "id": 4,
+    "name": "Hot Shots 6 pcl",
+    "price": 600.00,
+    "image": "/assets/appetizers/hot_shots.jpeg",
+    "description": "Spicy hot shots fried to golden crisp."
+  },
+  {
+    "id": 5,
+    "name": "Cheese Fries",
+    "price": 500.00,
+    "image": "/assets/appetizers/cheese_fries.jpeg",
+    "description": "Golden fries topped with melted cheese."
+  },
+  {
+    "id": 6,
+    "name": "Hot Wing's 6 pc",
+    "price": 600.00,
+    "image": "/assets/appetizers/hot_wings.jpeg",
+    "description": "Crispy hot wings tossed in spicy flavor."
+  },
+  {
+    "id": 7,
+    "name": "Plain Fries",
+    "price": 300.00,
+    "image": "/assets/appetizers/plain_fries.jpeg",
+    "description": "Crispy plain fries served with ketchup."
+  },
+  {
+    "id": 8,
+    "name": "Loaded Fries",
+    "price": 800.00,
+    "image": "/assets/appetizers/loaded_fries.jpeg",
+    "description": "Fries topped with cheese, mayo, and sauce."
+  },
+  {
+    "id": 9,
+    "name": "Garlic Mayo Fries",
+    "price": 400.00,
+    "image": "/assets/appetizers/garlic_mayo_fries.jpeg",
+    "description": "Crispy fries drizzled with garlic mayo."
+  }
+]
+,
+ "Pasta": [
+  {
+    "id": 1,
+    "name": "Alfredo Pasta",
+    "price": 1500.00,
+    "image": "/assets/pasta/alfredo_pasta.jpeg",
+    "description": "Rich creamy Alfredo pasta with herbs."
+  },
+  {
+    "id": 2,
+    "name": "Penne Pasta",
+    "price": 1500.00,
+    "image": "/assets/pasta/penne_pasta.jpeg",
+    "description": "Penne pasta tossed in tangy red sauce."
+  },
+  {
+    "id": 3,
+    "name": "Lasagna Pasta",
+    "price": 1500.00,
+    "image": "/assets/pasta/lasagna_pasta.jpeg",
+    "description": "Layered pasta with meat, sauce, and cheese."
+  }
+]
+,
+ "Burger": [
+  {
+    "id": 1,
+    "name": "Patty Burger",
+    "price": 350.00,
+    "image": "/assets/burgers/patty_burger.jpeg",
+    "description": "Juicy beef patty burger with fresh toppings."
+  },
+  {
+    "id": 2,
+    "name": "Jalapeeno Burger",
+    "price": 500.00,
+    "image": "/assets/burgers/jalapeeno_burger.jpeg",
+    "description": "Spicy jalapeño burger with crispy veggies."
+  },
+  {
+    "id": 3,
+    "name": "Zinger Burger",
+    "price": 450.00,
+    "image": "/assets/burgers/zinger_burger.jpeg",
+    "description": "Crispy fried zinger fillet burger with sauce."
+  },
+  {
+    "id": 4,
+    "name": "Zinger Burger with cheese",
+    "price": 550.00,
+    "image": "/assets/burgers/zinger_burger_with_cheese.jpeg",
+    "description": "Crispy zinger burger topped with melted cheese."
+  },
+  {
+    "id": 5,
+    "name": "Double Decker Burger",
+    "price": 750.00,
+    "image": "/assets/burgers/double_decker_burger.jpeg",
+    "description": "Double patty burger stacked with fresh toppings."
+  },
+  {
+    "id": 6,
+    "name": "Mighty Burger",
+    "price": 800.00,
+    "image": "/assets/burgers/mighty_burger.jpeg",
+    "description": "Big double patty burger with extra fillings."
+  },
+  {
+    "id": 7,
+    "name": "Fish Burgerr",
+    "price": 800.00,
+    "image": "/assets/burgers/fish_burger.jpeg",
+    "description": "Crispy fish fillet burger with tartar sauce."
+  }
+],
+  "Sandwich_Rolls": [
+  {
+    "id": 1,
+    "name": "Zinger Roll",
+    "price": 450.00,
+    "image": "/assets/sandwich_rolls/zinger_roll.jpeg",
+    "description": "Crispy zinger chicken wrapped with fresh veggies and sauce."
+  },
+  {
+    "id": 2,
+    "name": "Club Sandwich",
+    "price": 550.00,
+    "image": "/assets/sandwich_rolls/club_sandwich.jpeg",
+    "description": "Classic triple-layered club sandwich with chicken and veggies."
+  },
+  {
+    "id": 3,
+    "name": "Cheese Lover Sandwich",
+    "price": 700.00,
+    "image": "/assets/sandwich_rolls/cheese_lover_sandwich.jpeg",
+    "description": "Loaded with melted cheese and fresh veggies for cheese lovers."
+  },
+  {
+    "id": 4,
+    "name": "Twister Roll",
+    "price": 550.00,
+    "image": "/assets/sandwich_rolls/twister_roll.jpeg",
+    "description": "Spicy chicken twister wrapped in a soft roll with sauce."
+  },
+  {
+    "id": 5,
+    "name": "Zinger Shawarma",
+    "price": 450.00,
+    "image": "/assets/sandwich_rolls/zinger_shawarma.jpeg",
+    "description": "Shawarma stuffed with crispy zinger chicken and veggies."
+  },
+  {
+    "id": 6,
+    "name": "Chicken Cocktail Sandwich",
+    "price": 600.00,
+    "image": "/assets/sandwich_rolls/chicken_cocktail.jpeg",
+    "description": "Creamy chicken cocktail mix served in a soft sandwich."
+  },
+  {
+    "id": 7,
+    "name": "Bihari Roll",
+    "price": 750.00,
+    "image": "/assets/sandwich_rolls/bihari_roll.jpeg",
+    "description": "Spicy Bihari-style chicken wrapped in a roll with sauce."
+  },
+  {
+    "id": 8,
+    "name": "Chicken Shawarma",
+    "price": 750.00,
+    "image": "/assets/sandwich_rolls/chicken_shawarma.jpeg",
+    "description": "Juicy chicken shawarma packed with sauce and veggies."
+  }
+]
+}

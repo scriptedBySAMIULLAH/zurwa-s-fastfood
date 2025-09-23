@@ -1,0 +1,34 @@
+@import "./styles/font.css";
+@import "tailwindcss";
+@theme {
+  --font-moondance: "moondance";
+  --font-PoppinsRegular: "PoppinsRegular";
+  --font-PoppinsBold: "PoppinsBold";
+  --font-OpenSansRegular: "OpenSansRegular";
+  --font-PlayfairDisplayBold: "PlayfairDisplayBold";
+  /* colrs */
+  --color-yellow: #f4ce14;
+  --color-black: #000000;
+  --color-white: #ffffff;
+  --color-orange: #ff4d00;
+  --color-darkgray: #444444;
+  --color-heroBg:#495E57;
+  --color-footerBg:#121212;
+  --color-cardBg:#EDEDEE;
+  --color-priceColor:#EE9972;
+
+  /* breKpoints */  
+  --breakpoint-phone: 360px; /* Very small phones */
+  --breakpoint-mobile: 480px; /* Standard smartphones */
+  --breakpoint-tablet: 768px; /* Tablets */
+  --breakpoint-laptop: 1024px; /* Small laptops */
+  --breakpoint-desktop: 1280px; /* Desktops */
+  --breakpoint-wide: 1536px; /* Large / wide screens */
+}
+.active {
+  @apply font-bold border-b-2 border-yellow-500 bg-gray-100;
+}
+
+.nav-links li {
+  @apply cursor-pointer hover:underline hover:opacity-80;
+}
