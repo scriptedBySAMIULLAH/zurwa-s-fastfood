@@ -7,7 +7,7 @@ Built with **React**, **Vite**, and **Tailwind CSS**, this app features an optim
 
 ## 🚀 Live Demo
 Check out the live version of the project here:  
-🔗 **[Zurwas Fast Food Live](https://your-netlify-url.netlify.app)**
+🔗 **[Zurwas Fast Food Live](https://zurwas-fastfood.netlify.app/)**
 
 ## 📌 Features
 - **Responsive Design** – Works flawlessly on mobile, tablet, and desktop.
