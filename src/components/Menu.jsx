@@ -29,7 +29,7 @@ function Menu() {
     <>
     <section className='px-6  w-full max-w-7xl mx-auto mt-1 sm:mt-2' id="menu">
         <h1 className='font-PoppinsBold  text-lg   sm:text-2xl border-yellow  w-fit border-b-2  sm:border-b-4'>Menu</h1>
-        <div className="btn-containers flex  overflow-x-auto justify-center  gap-2 container mt-1 mb-2">
+        <div className="btn-containers flex overflow-x-auto whitespace-nowrap gap-2 container mt-1 mb-2 snap-x snap-mandatory">
 
           {
             menuButtons.map((btn)=>(

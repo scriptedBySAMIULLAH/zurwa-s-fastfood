@@ -4,67 +4,67 @@
       "id": 1,
       "description": "1 Crown Crust Pizza (Large), 1 Drink (1.5L)",
       "price": 2200,
-      "image": "assets/special_deal/special_1.jpeg"
+      "image": "assets/special_deal/special_1.webp"
     },
     {
       "id": 2,
       "description": "1 Zinger Burger, 1 Regular Drink (1.5L), Fries",
       "price": 600,
-      "image": "assets/special_deal/special_2.jpeg"
+      "image": "assets/special_deal/special_2.webp"
     },
     {
       "id": 3,
       "description": "4 Zinger Roll Paratha, 4 Zinger Burgers, 1 Drink (1.5L)",
       "price": 3200,
-      "image": "assets/special_deal/special_3.jpeg"
+      "image": "assets/special_deal/special_3.webp"
     },
     {
       "id": 4,
       "description": "4 Zinger Burgers, 2 Fries, 1 Drink (1.5L)",
       "price": 2300,
-      "image": "assets/special_deal/special_4.jpeg"
+      "image": "assets/special_deal/special_4.webp"
     },
     {
       "id": 5,
       "description": "1 Pizza (Medium), 3 Zinger Burgers, 1 Drink (1.5L)",
       "price": 2700,
-      "image": "assets/special_deal/special_5.jpeg"
+      "image": "assets/special_deal/special_5.webp"
     },
     {
       "id": 6,
       "description": "2 Fried Chicken Pieces, 1 Large Fries, 1 Regular Drink",
       "price": 499,
-      "image": "assets/special_deal/special_6.jpeg"
+      "image": "assets/special_deal/special_6.webp"
     },
     {
       "id": 7,
       "description": "1 Pizza (Small), 2 Zinger Burgers, 1 Regular Drink",
       "price": 1300,
-      "image": "assets/special_deal/special_7.jpeg"
+      "image": "assets/special_deal/special_7.webp"
     },
     {
       "id": 8,
       "description": "2 Pizzas (Medium), 1 Drink (1.5L)",
       "price": 2600,
-      "image": "assets/special_deal/special_8.jpeg"
+      "image": "assets/special_deal/special_8.webp"
     },
     {
       "id": 9,
       "description": "2 Pizzas (Large), 1 Drink (1.5L)",
       "price": 3600,
-      "image": "assets/special_deal/special_9.jpeg"
+      "image": "assets/special_deal/special_9.webp"
     },
     {
       "id": 10,
       "description": "2 Pizzas (Large), 4 Zinger Burgers, 2 Fries (Large), 1 Drink (1.5L)",
       "price": 5500,
-      "image": "assets/special_deal/special_10.jpeg"
+      "image": "assets/special_deal/special_10.webp"
     },
     {
       "id": 11,
       "description": "6 Zinger Burgers, 2 Fries (Medium), 1 Drink (1.5L)",
       "price": 2800,
-      "image": "assets/special_deal/special_11.jpeg"
+      "image": "assets/special_deal/special_11.webp"
     }
   ]
 }

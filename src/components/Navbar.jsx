@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-scroll";
-import logo from "/assets/ZurwasLogo.png";
+import logo from "/assets/ZurwasLogo.avif";
 import { useState } from "react";
 import CartIcon from "./Cart/CartIcon";
 function Navbar() {
@@ -18,6 +18,7 @@ function Navbar() {
               src={logo}
               alt="Company Logo"
               className="w-16 h-16 sm:w-18 sm:h-18  object-contain"
+              loading="lazy"
             />
           </div>
           <div className="cart-nav  flex items-center space-x-16">

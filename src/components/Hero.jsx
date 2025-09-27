@@ -24,9 +24,10 @@ function Hero() {
                         </Button>
                 </Link>
             </div>
-             <div className='w-full flex-1  rounded-2xl overflow-hidden shadow-lg max-w-sm mt-2 sm:mt-0'>
+             <div className='w-full flex-1  rounded-2xl overflow-hidden shadow-lg max-w-[20rem] mt-2 sm:mt-0'>
                 <img src={heroImage} alt="Delicious food"
-                className='w-full h-auto rounded-2xl shadow-xl object-cover hover:scale-105 transition-transform duration-500'
+                className='w-full h-auto rounded-2xl shadow-xl object-cover hover:scale-105 transition-transform duration-500 '
+                loading='lazy'
                 />
             </div> 
         </div>

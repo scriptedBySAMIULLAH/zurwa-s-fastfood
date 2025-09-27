@@ -1,6 +1,6 @@
 import React from 'react'
-import about_1 from "/assets/about_1.jpg";
-import about_2 from "/assets/about_2.jpg";
+import about_1 from "/assets/about_1.avif";
+import about_2 from "/assets/about_2.avif";
 
 function About() {
   return (

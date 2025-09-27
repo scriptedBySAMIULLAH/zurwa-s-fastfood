@@ -38,6 +38,7 @@ function Card({ foodData = [], dealsData = [] }) {
           src={foodData.image || dealsData.image}
           alt="img"
           className="w-full h-auto sm:h-[15rem]  object-contain sm:object-cover  hover:scale-105 transition-transform duration-500"
+          loading="lazy"
         />
         <div className="p-2 sm:p-4 flex-grow">
           <div className="title_price flex justify-between mt-2 sm:mt-4  items-center mb-4 sm:mb-6 gap-1">
